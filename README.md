@@ -12,3 +12,5 @@ Another advantage of using a custom camera is the ability to hook custom sky tha
 
 Under the hood, it also offer better frame splits when updating.
 Unity "frame splitting" is 1 frame per face, while here it goes up to 4 frames per face (some blit done once at a time)
+
+Tested on 2017.3.1, but should work on pretty much any version with Reflection Probes.
